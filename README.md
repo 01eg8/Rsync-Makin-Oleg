@@ -44,16 +44,16 @@
 
 ### Задание 1
 
-![img]()
+![img](https://github.com/01eg8/Rsync-Makin-Oleg/blob/main/img/Screenshot%20from%202025-01-24%2021-01-34.png)
 
 ### Задание 2
 
-![img]()
-![img]()
-![img]()
+![img](https://github.com/01eg8/Rsync-Makin-Oleg/blob/main/img/Screenshot%20from%202025-01-24%2021-04-48.png)
+![img](https://github.com/01eg8/Rsync-Makin-Oleg/blob/main/img/Screenshot%20from%202025-01-24%2021-17-07.png)
+![img](https://github.com/01eg8/Rsync-Makin-Oleg/blob/main/img/Screenshot%20from%202025-01-24%2021-17-32.png)
 
 ### Задание 3
 
-![img]()
+![img](https://github.com/01eg8/Rsync-Makin-Oleg/blob/main/img/Screenshot%20from%202025-01-24%2021-21-15.png)
 
 ### Задание 4
